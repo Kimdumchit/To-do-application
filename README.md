@@ -1,6 +1,6 @@
-# To-do-application
+# To-do-application Dev!!!
 
-SEB 40 과제 제출을 위한 레포지토리입니다 'v'
+SEB 40 Dev -> main PullRequest 위한 레포지토리입니다 'v'
 
 ## Features
 
